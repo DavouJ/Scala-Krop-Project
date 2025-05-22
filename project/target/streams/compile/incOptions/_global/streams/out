@@ -1,0 +1,12 @@
+[debug] Created transactional ClassFileManager with tempDir = /Users/davou.jobbi/IdeaProjects/scala-krop-project/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = /Users/davou.jobbi/IdeaProjects/scala-krop-project/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	KropTwirlLayout.class
+[debug] 	KropTwirlLayout$.class
+[debug] 	KropLayout$.class
+[debug] 	KropLayout.class
+[debug] Removing the temporary directory used for backing up class files: /Users/davou.jobbi/IdeaProjects/scala-krop-project/project/target/scala-2.12/sbt-1.0/classes.bak
